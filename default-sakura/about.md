@@ -1,5 +1,6 @@
 ---
 title: About me
+date: 2016-10-05
 layout: page
 ---
 
