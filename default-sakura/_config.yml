@@ -1,0 +1,5 @@
+site:
+    title:  My awesome notebook
+    baseurl: ''
+author: MYNAMEISJOHNCENA
+layout: post
